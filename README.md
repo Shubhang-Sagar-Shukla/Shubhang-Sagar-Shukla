@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack projects**
 
-- 📫 How to reach me **shubhangsagarshukla@gmail.com**
+- 📫 Reach me at **shubhangsagarshukla@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
