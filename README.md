@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Disaster Management project for SIH'25](https://disaster-management-project-sepia.vercel.app/)
 
-- 🌱 I’m currently learning **DSA and Next.js**
-
 - 👯 I’m looking to collaborate on **MERN Stack projects**
 
 - 📫 Reach me at **shubhangsagarshukla@gmail.com**
