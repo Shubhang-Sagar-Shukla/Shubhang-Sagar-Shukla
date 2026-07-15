@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubhang Sagar Shukla</h1>
 <h3 align="center">An Aspiring MERN Stack developer from India</h3>
 
-- 🔭 I’m currently working on [Disaster Management project for SIH'25](https://disaster-management-project-sepia.vercel.app/)
+- 🔭 I’m currently working as a freelance web developer.
 
 - 👯 I’m looking to collaborate on **MERN Stack projects**
 
